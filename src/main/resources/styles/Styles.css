@@ -1,0 +1,13 @@
+.button {
+    -fx-font-weight: bold;
+}
+
+.label-weight {
+    
+}
+
+.cell-weight{
+    -fx-background-color: lightseagreen;    
+    -fx-border-color: black;
+    -fx-border-width: 2.0;
+}
